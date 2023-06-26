@@ -4,7 +4,7 @@
 
 ## Özellikler
 
-- Sayfa başlığı ve Önemli noktaları vurgulayan başlıklar
+- Sayfa başlığı ve önemli noktaları vurgulayan başlıklar
 - Görüntüler ve medya öğeleri
 - Düzenli liste öğeleri
 
