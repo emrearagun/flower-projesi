@@ -4,11 +4,9 @@
 
 ## Özellikler
 
-- Sayfa başlığı ve açıklama metni
-- Önemli noktaları vurgulayan başlıklar
+- Sayfa başlığı ve Önemli noktaları vurgulayan başlıklar
 - Görüntüler ve medya öğeleri
-- Düzenli liste veya sıralı liste öğeleri
-
+- Düzenli liste öğeleri
 
 Proje dosyalarını açtıktan sonra, projenin ana dosyası olan `index.html` dosyasını web tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
