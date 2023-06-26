@@ -1,12 +1,13 @@
 # flower-projesi
 
-## Bu proje, basit bir HTML ve CSS kullanarak oluşturulmuş bir responsive türü web sayfasıdır. 
+## Bu proje, HTML ve CSS kullanarak oluşturulmuş responsive türü web sayfasıdır. 
 
-## Özellikler
+## projenin bazı Özellikler şunlardır
 
-- Sayfa başlığı ve önemli noktaları vurgulayan başlıklar
+- etkileyici sayfa başlıkları ve önemli noktaları vurgulayan başlıklar
 - Görüntüler ve medya öğeleri
 - Düzenli liste öğeleri
+- hızlı ve duyarlı tasarım 
 
 Proje dosyalarını açtıktan sonra, projenin ana dosyası olan `index.html` dosyasını web tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
