@@ -22,7 +22,5 @@ Proje dosyalarını açtıktan sonra, projenin ana dosyası olan `index.html` do
 
 
 
-# ![flower proje gifli görüntüsü]
-
-# (/image/flower.gif)
+ ![flower proje gifli görüntüsü](/image/flower.gif)
 
